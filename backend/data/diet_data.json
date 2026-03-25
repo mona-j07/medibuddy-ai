@@ -1,0 +1,1393 @@
+{
+  "normal": {
+    "south_india": {
+      "low": {
+        "breakfast": {
+          "dish": "Vegetable Upma",
+          "calories": "300 kcal",
+          "portion": "1 bowl",
+          "alternatives": ["Idli with sambar", "Poha", "Ragi porridge"],
+          "note": "Balanced carbs and fiber"
+        },
+        "lunch": {
+          "dish": "Rice + Sambar + Poriyal",
+          "calories": "500 kcal",
+          "portion": "1.5 cups",
+          "alternatives": ["Curd rice", "Lemon rice", "Vegetable khichdi"],
+          "note": "Balanced meal"
+        },
+        "dinner": {
+          "dish": "Chapati + Dal",
+          "calories": "400 kcal",
+          "portion": "2 chapatis",
+          "alternatives": ["Vegetable curry", "Egg curry", "Paneer bhurji"],
+          "note": "Light dinner"
+        },
+        "snacks": {
+          "dish": "Roasted peanuts",
+          "calories": "150 kcal",
+          "portion": "1 handful",
+          "alternatives": ["Fruit bowl", "Buttermilk", "Sprouts"],
+          "note": "Healthy snack"
+        }
+      },
+      "medium": {
+        "breakfast": {
+          "dish": "Masala dosa",
+          "calories": "450 kcal",
+          "portion": "1 dosa",
+          "alternatives": ["Pongal", "Appam + stew", "Set dosa"],
+          "note": "Moderate calorie"
+        },
+        "lunch": {
+          "dish": "Vegetable biryani + raita",
+          "calories": "650 kcal",
+          "portion": "1 plate",
+          "alternatives": ["Chicken rice", "Curd rice combo", "Meals thali"],
+          "note": "Rich meal"
+        },
+        "dinner": {
+          "dish": "Chapati + paneer curry",
+          "calories": "500 kcal",
+          "portion": "2 chapatis",
+          "alternatives": ["Egg curry", "Chicken curry", "Dal fry"],
+          "note": "Protein rich"
+        },
+        "snacks": {
+          "dish": "Banana smoothie",
+          "calories": "200 kcal",
+          "portion": "1 glass",
+          "alternatives": ["Boiled corn", "Peanut chikki", "Milk"],
+          "note": "Energy boost"
+        }
+      },
+      "luxury": {
+        "breakfast": {
+          "dish": "Ghee dosa + chutneys",
+          "calories": "550 kcal",
+          "portion": "1 large",
+          "alternatives": ["Cheese dosa", "Idiyappam + stew", "Vada combo"],
+          "note": "High energy"
+        },
+        "lunch": {
+          "dish": "Full South Indian thali",
+          "calories": "800 kcal",
+          "portion": "full plate",
+          "alternatives": ["Chicken meals", "Fish meals", "Paneer thali"],
+          "note": "Complete nutrition"
+        },
+        "dinner": {
+          "dish": "Malabar parotta + chicken curry",
+          "calories": "700 kcal",
+          "portion": "2 parottas",
+          "alternatives": ["Paneer butter masala", "Egg roast", "Veg kurma"],
+          "note": "Heavy dinner"
+        },
+        "snacks": {
+          "dish": "Dry fruit mix",
+          "calories": "300 kcal",
+          "portion": "1 bowl",
+          "alternatives": ["Milkshake", "Lassi", "Fruit cream"],
+          "note": "High calorie snack"
+        }
+      }
+    },
+
+    "north_india": {
+      "low": {
+        "breakfast": {
+          "dish": "Poha",
+          "calories": "300 kcal",
+          "portion": "1 plate",
+          "alternatives": ["Dalia", "Besan cheela", "Boiled eggs"],
+          "note": "Light breakfast"
+        },
+        "lunch": {
+          "dish": "Roti + dal + sabzi",
+          "calories": "500 kcal",
+          "portion": "2 rotis",
+          "alternatives": ["Rajma rice", "Chole", "Kadhi"],
+          "note": "Balanced"
+        },
+        "dinner": {
+          "dish": "Vegetable soup + roti",
+          "calories": "400 kcal",
+          "portion": "1 bowl",
+          "alternatives": ["Moong dal", "Khichdi", "Paneer curry"],
+          "note": "Light dinner"
+        },
+        "snacks": {
+          "dish": "Roasted chana",
+          "calories": "150 kcal",
+          "portion": "1 handful",
+          "alternatives": ["Apple", "Makhana", "Buttermilk"],
+          "note": "Protein snack"
+        }
+      },
+
+      "medium": {
+        "breakfast": {
+          "dish": "Aloo paratha + curd",
+          "calories": "450 kcal",
+          "portion": "2",
+          "alternatives": ["Paneer paratha", "Omelette", "Stuffed roti"],
+          "note": "Filling meal"
+        },
+        "lunch": {
+          "dish": "Rajma + rice",
+          "calories": "650 kcal",
+          "portion": "1 plate",
+          "alternatives": ["Chole", "Paneer curry", "Chicken curry"],
+          "note": "Protein rich"
+        },
+        "dinner": {
+          "dish": "Chapati + paneer",
+          "calories": "500 kcal",
+          "portion": "2 chapatis",
+          "alternatives": ["Dal makhani", "Egg curry", "Veg curry"],
+          "note": "Balanced dinner"
+        },
+        "snacks": {
+          "dish": "Milk + dates",
+          "calories": "250 kcal",
+          "portion": "1 glass",
+          "alternatives": ["Banana", "Dry fruits", "Smoothie"],
+          "note": "Energy snack"
+        }
+      },
+
+      "luxury": {
+        "breakfast": {
+          "dish": "Paneer stuffed paratha + butter",
+          "calories": "600 kcal",
+          "portion": "2",
+          "alternatives": ["Chole bhature", "Puri bhaji", "Cheese sandwich"],
+          "note": "High calorie"
+        },
+        "lunch": {
+          "dish": "Butter naan + paneer butter masala",
+          "calories": "800 kcal",
+          "portion": "2 naan",
+          "alternatives": ["Chicken butter masala", "Dal makhani", "Korma"],
+          "note": "Rich meal"
+        },
+        "dinner": {
+          "dish": "Jeera rice + dal makhani",
+          "calories": "700 kcal",
+          "portion": "1 plate",
+          "alternatives": ["Biryani", "Pulao", "Kadhi rice"],
+          "note": "Heavy dinner"
+        },
+        "snacks": {
+          "dish": "Samosa + chai",
+          "calories": "300 kcal",
+          "portion": "2",
+          "alternatives": ["Jalebi", "Kachori", "Pakora"],
+          "note": "Indulgent snack"
+        }
+      }
+    },
+    "east_india": {
+  "low": {
+    "breakfast": {
+      "dish": "Chira (flattened rice) with curd",
+      "calories": "300 kcal",
+      "portion": "1 bowl",
+      "alternatives": ["Suji upma", "Vegetable chop (baked)", "Muri with peanuts"],
+      "note": "Light Bengali breakfast"
+    },
+    "lunch": {
+      "dish": "Rice + moong dal + vegetable curry",
+      "calories": "500 kcal",
+      "portion": "1 cup rice",
+      "alternatives": ["Machher jhol + rice", "Aloo posto", "Cholar dal"],
+      "note": "Balanced meal"
+    },
+    "dinner": {
+      "dish": "Vegetable soup + 1 roti",
+      "calories": "400 kcal",
+      "portion": "1 bowl",
+      "alternatives": ["Dal + rice (small)", "Pumpkin curry", "Shukto"],
+      "note": "Light dinner"
+    },
+    "snacks": {
+      "dish": "Jhal muri",
+      "calories": "150 kcal",
+      "portion": "1 bowl",
+      "alternatives": ["Murki", "Boiled peanuts", "Fruit slices"],
+      "note": "Street-style healthy snack"
+    }
+  },
+
+  "medium": {
+    "breakfast": {
+      "dish": "Luchi + aloo curry",
+      "calories": "450 kcal",
+      "portion": "2 luchis",
+      "alternatives": ["Bread omelette", "Vegetable upma", "Egg roll"],
+      "note": "Moderate calorie meal"
+    },
+    "lunch": {
+      "dish": "Fish curry + rice",
+      "calories": "650 kcal",
+      "portion": "1 plate",
+      "alternatives": ["Chicken curry", "Paneer curry", "Dal + sabzi"],
+      "note": "Protein rich meal"
+    },
+    "dinner": {
+      "dish": "Roti + mixed veg curry",
+      "calories": "500 kcal",
+      "portion": "2 rotis",
+      "alternatives": ["Dal + roti", "Egg curry", "Light khichdi"],
+      "note": "Balanced dinner"
+    },
+    "snacks": {
+      "dish": "Sweet yogurt (mishti doi)",
+      "calories": "250 kcal",
+      "portion": "1 cup",
+      "alternatives": ["Banana", "Peanut mix", "Milk"],
+      "note": "Energy snack"
+    }
+  },
+
+  "luxury": {
+    "breakfast": {
+      "dish": "Kachori + aloo sabzi",
+      "calories": "600 kcal",
+      "portion": "2 kachoris",
+      "alternatives": ["Chole bhature", "Stuffed paratha", "Bread butter"],
+      "note": "High calorie"
+    },
+    "lunch": {
+      "dish": "Bengali thali (fish, dal, veg, rice)",
+      "calories": "800 kcal",
+      "portion": "full plate",
+      "alternatives": ["Mutton curry + rice", "Paneer thali", "Chicken thali"],
+      "note": "Complete meal"
+    },
+    "dinner": {
+      "dish": "Chicken curry + rice",
+      "calories": "700 kcal",
+      "portion": "1 plate",
+      "alternatives": ["Fish fry + rice", "Paneer curry", "Egg curry"],
+      "note": "Heavy dinner"
+    },
+    "snacks": {
+      "dish": "Rasgulla (2)",
+      "calories": "300 kcal",
+      "portion": "2 pieces",
+      "alternatives": ["Sandesh", "Gulab jamun", "Sweet curd"],
+      "note": "Dessert snack"
+    }
+  }
+},
+
+"west_india": {
+  "low": {
+    "breakfast": {
+      "dish": "Vegetable thepla",
+      "calories": "300 kcal",
+      "portion": "2 small",
+      "alternatives": ["Dhokla", "Poha", "Upma"],
+      "note": "Light Gujarati breakfast"
+    },
+    "lunch": {
+      "dish": "Khichdi + kadhi",
+      "calories": "500 kcal",
+      "portion": "1 bowl",
+      "alternatives": ["Dal dhokli", "Vegetable sabzi + roti", "Rice + dal"],
+      "note": "Balanced meal"
+    },
+    "dinner": {
+      "dish": "Jowar roti + bhindi",
+      "calories": "400 kcal",
+      "portion": "1 roti",
+      "alternatives": ["Vegetable curry", "Dal", "Light sabzi"],
+      "note": "Light dinner"
+    },
+    "snacks": {
+      "dish": "Roasted makhana",
+      "calories": "150 kcal",
+      "portion": "1 bowl",
+      "alternatives": ["Sprouts", "Peanuts", "Fruit"],
+      "note": "Healthy snack"
+    }
+  },
+
+  "medium": {
+    "breakfast": {
+      "dish": "Sabudana khichdi",
+      "calories": "450 kcal",
+      "portion": "1 bowl",
+      "alternatives": ["Dhokla", "Thepla + curd", "Poha"],
+      "note": "Energy rich"
+    },
+    "lunch": {
+      "dish": "Gujarati thali",
+      "calories": "650 kcal",
+      "portion": "1 plate",
+      "alternatives": ["Pav bhaji", "Vegetable pulao", "Dal + rice"],
+      "note": "Balanced meal"
+    },
+    "dinner": {
+      "dish": "Roti + paneer sabzi",
+      "calories": "500 kcal",
+      "portion": "2 rotis",
+      "alternatives": ["Dal fry", "Vegetable curry", "Egg curry"],
+      "note": "Protein meal"
+    },
+    "snacks": {
+      "dish": "Buttermilk + chivda",
+      "calories": "250 kcal",
+      "portion": "1 glass",
+      "alternatives": ["Corn", "Fruit", "Peanuts"],
+      "note": "Light snack"
+    }
+  },
+
+  "luxury": {
+    "breakfast": {
+      "dish": "Fafda + jalebi",
+      "calories": "600 kcal",
+      "portion": "1 plate",
+      "alternatives": ["Kachori", "Paratha", "Bread butter"],
+      "note": "High calorie"
+    },
+    "lunch": {
+      "dish": "Paneer butter masala + naan",
+      "calories": "800 kcal",
+      "portion": "2 naan",
+      "alternatives": ["Chicken curry", "Dal makhani", "Veg thali"],
+      "note": "Rich meal"
+    },
+    "dinner": {
+      "dish": "Pav bhaji",
+      "calories": "700 kcal",
+      "portion": "1 plate",
+      "alternatives": ["Biryani", "Pulao", "Paneer curry"],
+      "note": "Heavy dinner"
+    },
+    "snacks": {
+      "dish": "Shrikhand",
+      "calories": "300 kcal",
+      "portion": "1 cup",
+      "alternatives": ["Lassi", "Milkshake", "Ice cream"],
+      "note": "Sweet snack"
+    }
+  }
+},
+
+"central_india": {
+  "low": {
+    "breakfast": {
+      "dish": "Vegetable poha",
+      "calories": "300 kcal",
+      "portion": "1 plate",
+      "alternatives": ["Sattu drink", "Upma", "Boiled corn"],
+      "note": "MP style breakfast"
+    },
+    "lunch": {
+      "dish": "Dal + roti + sabzi",
+      "calories": "500 kcal",
+      "portion": "2 rotis",
+      "alternatives": ["Rice + dal", "Khichdi", "Vegetable curry"],
+      "note": "Balanced"
+    },
+    "dinner": {
+      "dish": "Sattu porridge",
+      "calories": "400 kcal",
+      "portion": "1 bowl",
+      "alternatives": ["Light khichdi", "Dal soup", "Vegetable soup"],
+      "note": "Light dinner"
+    },
+    "snacks": {
+      "dish": "Roasted peanuts",
+      "calories": "150 kcal",
+      "portion": "1 handful",
+      "alternatives": ["Makhana", "Fruit", "Buttermilk"],
+      "note": "Healthy snack"
+    }
+  },
+
+  "medium": {
+    "breakfast": {
+      "dish": "Bhutte ka kees",
+      "calories": "450 kcal",
+      "portion": "1 bowl",
+      "alternatives": ["Poha", "Paratha", "Upma"],
+      "note": "Moderate calorie"
+    },
+    "lunch": {
+      "dish": "Dal bafla + ghee",
+      "calories": "650 kcal",
+      "portion": "2 bafla",
+      "alternatives": ["Rice + curry", "Paneer sabzi", "Chicken curry"],
+      "note": "Rich meal"
+    },
+    "dinner": {
+      "dish": "Chapati + paneer",
+      "calories": "500 kcal",
+      "portion": "2 chapatis",
+      "alternatives": ["Dal fry", "Egg curry", "Vegetable curry"],
+      "note": "Balanced"
+    },
+    "snacks": {
+      "dish": "Sattu drink",
+      "calories": "250 kcal",
+      "portion": "1 glass",
+      "alternatives": ["Milk", "Fruit", "Dry fruits"],
+      "note": "Energy drink"
+    }
+  },
+
+  "luxury": {
+    "breakfast": {
+      "dish": "Jalebi + poha",
+      "calories": "600 kcal",
+      "portion": "1 plate",
+      "alternatives": ["Paratha + butter", "Puri bhaji", "Cheese toast"],
+      "note": "High calorie"
+    },
+    "lunch": {
+      "dish": "Paneer curry + naan",
+      "calories": "800 kcal",
+      "portion": "2 naan",
+      "alternatives": ["Chicken curry", "Dal makhani", "Veg thali"],
+      "note": "Rich meal"
+    },
+    "dinner": {
+      "dish": "Vegetable pulao",
+      "calories": "700 kcal",
+      "portion": "1 plate",
+      "alternatives": ["Biryani", "Khichdi", "Paneer rice"],
+      "note": "Heavy dinner"
+    },
+    "snacks": {
+      "dish": "Gulab jamun (2)",
+      "calories": "300 kcal",
+      "portion": "2 pieces",
+      "alternatives": ["Laddu", "Barfi", "Milkshake"],
+      "note": "Sweet snack"
+    }
+  }
+}
+  },
+ 
+  "underweight": {
+    "south_india": {
+      "low": {
+        "breakfast": {
+          "dish": "Ghee Idli with Peanut Chutney",
+          "calories": "450 kcal",
+          "portion": "4 idlis + 1 tsp ghee",
+          "alternatives": ["Pongal with ghee", "Masala dosa with butter", "Rava idli with coconut chutney"],
+          "note": "High calorie breakfast with healthy fats"
+        },
+        "lunch": {
+          "dish": "Rice + Sambar + Ghee + Pappad",
+          "calories": "700 kcal",
+          "portion": "2 cups rice + 2 tsp ghee",
+          "alternatives": ["Curd rice with banana", "Vegetable biryani with raita", "Lemon rice with peanuts"],
+          "note": "Energy dense traditional meal"
+        },
+        "dinner": {
+          "dish": "Chapati + Paneer Curry + Buttermilk",
+          "calories": "600 kcal",
+          "portion": "3 chapatis",
+          "alternatives": ["Egg curry + rice", "Chicken kurma + chapati", "Dal fry + ghee rice"],
+          "note": "Protein rich calorie-dense dinner"
+        },
+        "snacks": {
+          "dish": "Banana + Peanut Butter",
+          "calories": "300 kcal",
+          "portion": "1 large banana",
+          "alternatives": ["Dates + milk", "Dry fruits mix", "Badam milk"],
+          "note": "Quick high-calorie boost"
+        }
+      },
+      "medium": {
+        "breakfast": {
+          "dish": "Set Dosa + Potato Masala + Ghee",
+          "calories": "600 kcal",
+          "portion": "3 small dosas",
+          "alternatives": ["Appam + egg curry", "Rava dosa combo", "Paniyaram with chutney"],
+          "note": "Carb-rich filling breakfast"
+        },
+        "lunch": {
+          "dish": "Chicken Biryani + Raita + Pappad",
+          "calories": "900 kcal",
+          "portion": "1.5 plates",
+          "alternatives": ["Mutton biryani", "Veg dum biryani", "Fish fry meals"],
+          "note": "High protein carb combo"
+        },
+        "dinner": {
+          "dish": "Parotta + Chicken Curry",
+          "calories": "750 kcal",
+          "portion": "3 parottas",
+          "alternatives": ["Kuzhi paniyaram + gravy", "Idiyappam + kurma", "Puttu + kadala curry"],
+          "note": "Layered carb protein meal"
+        },
+        "snacks": {
+          "dish": "Milkshake + Dry Fruits",
+          "calories": "400 kcal",
+          "portion": "1 large glass",
+          "alternatives": ["Lassi with nuts", "Fruit cream", "Sweet pongal"],
+          "note": "Liquid calorie boost"
+        }
+      },
+      "luxury": {
+        "breakfast": {
+          "dish": "Cheese Dosa + Coconut Chutney",
+          "calories": "750 kcal",
+          "portion": "1 large dosa",
+          "alternatives": ["Butter ghee dosa", "Mysore masala dosa", "Onion uthappam combo"],
+          "note": "Ultra high-calorie start"
+        },
+        "lunch": {
+          "dish": "Full Non-Veg Meals Thali",
+          "calories": "1100 kcal",
+          "portion": "Complete thali",
+          "alternatives": ["Seafood platter", "Mutton biryani feast", "Chicken 65 combo"],
+          "note": "Complete nutrition overload"
+        },
+        "dinner": {
+          "dish": "Malabar Parotta + Beef Curry",
+          "calories": "950 kcal",
+          "portion": "4 parottas",
+          "alternatives": ["Prawn roast + appam", "Mutton korma + pathiri", "Fish molee"],
+          "note": "Ultimate indulgence meal"
+        },
+        "snacks": {
+          "dish": "Badam Halwa + Milk",
+          "calories": "500 kcal",
+          "portion": "100g halwa",
+          "alternatives": ["Mysore pak", "Rava kesari", "Payasam"],
+          "note": "Sweet calorie bomb"
+        }
+      }
+    },
+    "north_india": {
+      "low": {
+        "breakfast": {
+          "dish": "Aloo Paratha + Curd + Butter",
+          "calories": "500 kcal",
+          "portion": "2 parathas",
+          "alternatives": ["Paneer paratha", "Gobi paratha", "Stuffed kulcha"],
+          "note": "Traditional calorie-dense breakfast"
+        },
+        "lunch": {
+          "dish": "Dal Makhani + Jeera Rice + Naan",
+          "calories": "800 kcal",
+          "portion": "1 cup rice + 1 naan",
+          "alternatives": ["Rajma + rice", "Chole + kulcha", "Paneer butter masala"],
+          "note": "Rich North Indian protein meal"
+        },
+        "dinner": {
+          "dish": "Chicken Curry + Laccha Paratha",
+          "calories": "700 kcal",
+          "portion": "3 parathas",
+          "alternatives": ["Egg curry + naan", "Paneer tikka masala", "Mutton curry"],
+          "note": "High protein dinner"
+        },
+        "snacks": {
+          "dish": "Dry Fruit Ladoo",
+          "calories": "350 kcal",
+          "portion": "2 pieces",
+          "alternatives": ["Pedha", "Gulab jamun", "Samosa"],
+          "note": "Sweet energy boost"
+        }
+      },
+      "medium": {
+        "breakfast": {
+          "dish": "Puri Bhaji + Curd",
+          "calories": "650 kcal",
+          "portion": "3 puris",
+          "alternatives": ["Kachori + sabzi", "Poori aloo", "Mathri + chai"],
+          "note": "Deep-fried carb delight"
+        },
+        "lunch": {
+          "dish": "Butter Chicken + Naan + Rice",
+          "calories": "950 kcal",
+          "portion": "2 naan",
+          "alternatives": ["Chicken tikka masala", "Mutton rogan josh", "Malai kofta"],
+          "note": "Restaurant-style feast"
+        },
+        "dinner": {
+          "dish": "Mutton Biryani + Raita",
+          "calories": "850 kcal",
+          "portion": "1.5 plates",
+          "alternatives": ["Chicken biryani", "Veg pulao", "Kebab platter"],
+          "note": "Aromatic rice protein combo"
+        },
+        "snacks": {
+          "dish": "Chole Bhature",
+          "calories": "450 kcal",
+          "portion": "2 bhature",
+          "alternatives": ["Pakora platter", "Samosa chaat", "Aloo tikki"],
+          "note": "Street food calories"
+        }
+      },
+      "luxury": {
+        "breakfast": {
+          "dish": "Paneer Stuffed Paratha + Lassi",
+          "calories": "800 kcal",
+          "portion": "3 parathas",
+          "alternatives": ["Loaded cheese paratha", "Butter naan breakfast", "Stuffed kulcha"],
+          "note": "Ultimate breakfast feast"
+        },
+        "lunch": {
+          "dish": "Full Tandoori Platter",
+          "calories": "1200 kcal",
+          "portion": "Complete platter",
+          "alternatives": ["Tandoori chicken feast", "Mixed grill", "Kebab thali"],
+          "note": "Protein calorie overload"
+        },
+        "dinner": {
+          "dish": "Mutton Biryani + Seekh Kebab",
+          "calories": "1100 kcal",
+          "portion": "Full plate",
+          "alternatives": ["Lamb chops + naan", "Tikka platter", "Biryani combo"],
+          "note": "Royal dinner experience"
+        },
+        "snacks": {
+          "dish": "Jalebi Rabri",
+          "calories": "550 kcal",
+          "portion": "1 plate",
+          "alternatives": ["Gulab jamun rabri", "Imarti", "Sweet platter"],
+          "note": "Sweet indulgence peak"
+        }
+      }
+    },
+    "east_india": {
+      "low": {
+        "breakfast": {
+          "dish": "Luchi + Aloo Dum",
+          "calories": "500 kcal",
+          "portion": "4 luchis",
+          "alternatives": ["Koraishuti kachori", "Paratha + posto", "Telebhaja combo"],
+          "note": "Deep-fried Bengali breakfast"
+        },
+        "lunch": {
+          "dish": "Machher Jhol + Rice + Dal",
+          "calories": "750 kcal",
+          "portion": "2 cups rice",
+          "alternatives": ["Mutton kosha", "Chicken curry", "Cholar dal + luchi"],
+          "note": "Traditional fish protein meal"
+        },
+        "dinner": {
+          "dish": "Egg Curry + Paratha",
+          "calories": "650 kcal",
+          "portion": "3 parathas",
+          "alternatives": ["Chicken kosha", "Paneer curry", "Mutton rezala"],
+          "note": "Non-veg Bengali dinner"
+        },
+        "snacks": {
+          "dish": "Mishti Doi",
+          "calories": "350 kcal",
+          "portion": "1 cup",
+          "alternatives": ["Sandesh", "Rasgulla", "Cham cham"],
+          "note": "Traditional sweet snack"
+        }
+      },
+      "medium": {
+        "breakfast": {
+          "dish": "Phuchka + Aloo Dum",
+          "calories": "600 kcal",
+          "portion": "12 pieces",
+          "alternatives": ["Jhal muri platter", "Egg roll combo", "Chotpoti"],
+          "note": "Street food breakfast"
+        },
+        "lunch": {
+          "dish": "Mutton Kosha + Luchi",
+          "calories": "900 kcal",
+          "portion": "6 luchis",
+          "alternatives": ["Fish kalia", "Chicken do pyaza", "Bengali thali"],
+          "note": "Spicy meat feast"
+        },
+        "dinner": {
+          "dish": "Chicken Biryani + Firni",
+          "calories": "800 kcal",
+          "portion": "1.5 plates",
+          "alternatives": ["Fish fry rice", "Mutton biryani", "Veg pulao"],
+          "note": "Aromatic dinner combo"
+        },
+        "snacks": {
+          "dish": "Telebhaja Platter",
+          "calories": "450 kcal",
+          "portion": "8 pieces",
+          "alternatives": ["Beguni combo", "Fish fry", "Chicken pakora"],
+          "note": "Fried fritter feast"
+        }
+      },
+      "luxury": {
+        "breakfast": {
+          "dish": "Kachori Sabzi + Sweet",
+          "calories": "750 kcal",
+          "portion": "4 kachoris",
+          "alternatives": ["Luchi special", "Paratha platter", "Street food combo"],
+          "note": "Ultimate breakfast spread"
+        },
+        "lunch": {
+          "dish": "Grand Bengali Seafood Thali",
+          "calories": "1200 kcal",
+          "portion": "Complete thali",
+          "alternatives": ["Mutton thali", "Chicken feast", "Veg deluxe"],
+          "note": "Seafood calorie explosion"
+        },
+        "dinner": {
+          "dish": "Mutton Rezala + Roomali Roti",
+          "calories": "1000 kcal",
+          "portion": "Full plate",
+          "alternatives": ["Fish kalia royal", "Chicken butter masala", "Kebab platter"],
+          "note": "Royal Bengali dinner"
+        },
+        "snacks": {
+          "dish": "Rosogolla + Sandesh Combo",
+          "calories": "500 kcal",
+          "portion": "4 pieces",
+          "alternatives": ["Mishti platter", "Sweet selection", "Rabri falooda"],
+          "note": "Sweet tooth satisfaction"
+        }
+      }
+    },
+    "west_india": {
+      "low": {
+        "breakfast": {
+          "dish": "Methi Thepla + Curd + Pickle",
+          "calories": "450 kcal",
+          "portion": "4 theplas",
+          "alternatives": ["Dhokla with chutney", "Handvo", "Khakra + butter"],
+          "note": "Gujarati calorie-dense breakfast"
+        },
+        "lunch": {
+          "dish": "Undhiyu + Puris + Sev Usal",
+          "calories": "800 kcal",
+          "portion": "3 puris",
+          "alternatives": ["Dal dhokli", "Gujarati thali", "Kadhi khichdi"],
+          "note": "Traditional winter special"
+        },
+        "dinner": {
+          "dish": "Paneer Tikka Masala + Naan",
+          "calories": "700 kcal",
+          "portion": "2 naan",
+          "alternatives": ["Chicken tikka", "Veg handi", "Dal makhani"],
+          "note": "Restaurant-style protein"
+        },
+        "snacks": {
+          "dish": "Shrikhand",
+          "calories": "350 kcal",
+          "portion": "1 cup",
+          "alternatives": ["Aamras", "Kaju katli", "Farsan mix"],
+          "note": "Creamy sweet snack"
+        }
+      },
+      "medium": {
+        "breakfast": {
+          "dish": "Sabudana Vada + Peanut Chutney",
+          "calories": "600 kcal",
+          "portion": "4 vadas",
+          "alternatives": ["Batata vada combo", "Misal pav", "Vada pav deluxe"],
+          "note": "Fasting favorite boosted"
+        },
+        "lunch": {
+          "dish": "Pav Bhaji + Lassi",
+          "calories": "850 kcal",
+          "portion": "2 plates",
+          "alternatives": ["Vada pav platter", "Bhel puri special", "Sev puri combo"],
+          "note": "Street food feast"
+        },
+        "dinner": {
+          "dish": "Chicken Biryani + Raita",
+          "calories": "800 kcal",
+          "portion": "1.5 plates",
+          "alternatives": ["Fish fry rice", "Paneer biryani", "Mutton biryani"],
+          "note": "Mumbai-style dinner"
+        },
+        "snacks": {
+          "dish": "Chivda + Chai",
+          "calories": "400 kcal",
+          "portion": "1 large bowl",
+          "alternatives": ["Farsan mix", "Khakhra butter", "Mathiya"],
+          "note": "Savory crunch calories"
+        }
+      },
+      "luxury": {
+        "breakfast": {
+          "dish": "Fafda Jalebi + Chai",
+          "calories": "800 kcal",
+          "portion": "Full plate",
+          "alternatives": ["Gathiya sev combo", "Jalebi platter", "Samosa farsan"],
+          "note": "Gujarati festival breakfast"
+        },
+        "lunch": {
+          "dish": "Prawn Ghee Roast + Naan",
+          "calories": "1100 kcal",
+          "portion": "Complete meal",
+          "alternatives": ["Seafood thali", "Crab masala", "Fish fry deluxe"],
+          "note": "Coastal luxury feast"
+        },
+        "dinner": {
+          "dish": "Butter Chicken + Garlic Naan",
+          "calories": "1000 kcal",
+          "portion": "3 naan",
+          "alternatives": ["Tandoori platter", "Kebab feast", "Biryani royal"],
+          "note": "Ultimate restaurant meal"
+        },
+        "snacks": {
+          "dish": "Mysore Pak",
+          "calories": "500 kcal",
+          "portion": "100g",
+          "alternatives": ["Jalebi rabri", "Shrikhand puri", "Sweet platter"],
+          "note": "Ghee-laden sweet perfection"
+        }
+      }
+    },
+    "central_india": {
+      "low": {
+        "breakfast": {
+          "dish": "Poha Jalebi",
+          "calories": "500 kcal",
+          "portion": "1 plate poha + 2 jalebi",
+          "alternatives": ["Sattu paratha", "Bafla + poha", "Bhutte ka kees"],
+          "note": "Indore street food classic"
+        },
+        "lunch": {
+          "dish": "Dal Bafla + Ghee + Sabzi",
+          "calories": "800 kcal",
+          "portion": "3 bafla",
+          "alternatives": ["Poha pyaz + sev", "Sattu puri", "Dal khichdi"],
+          "note": "Traditional MP calorie bomb"
+        },
+        "dinner": {
+          "dish": "Paneer Masala + Naan",
+          "calories": "700 kcal",
+          "portion": "2 naan",
+          "alternatives": ["Chicken curry", "Egg bhurji", "Mutton masala"],
+          "note": "Protein-rich dinner"
+        },
+        "snacks": {
+          "dish": "Sattu Ladoo",
+          "calories": "350 kcal",
+          "portion": "2 pieces",
+          "alternatives": ["Mirchi vada", "Dahi vada", "Poha chivda"],
+          "note": "Protein-packed sweet"
+        }
+      },
+      "medium": {
+        "breakfast": {
+          "dish": "Kachori Sabzi",
+          "calories": "650 kcal",
+          "portion": "3 kachoris",
+          "alternatives": ["Poha rolls", "Samosa pav", "Vada pav"],
+          "note": "Street food breakfast"
+        },
+        "lunch": {
+          "dish": "Dal Fry + Jeera Rice + Roti",
+          "calories": "900 kcal",
+          "portion": "2 cups rice",
+          "alternatives": ["Chicken biryani", "Mutton curry", "Paneer thali"],
+          "note": "Complete carb-protein meal"
+        },
+        "dinner": {
+          "dish": "Mutton Biryani + Raita",
+          "calories": "850 kcal",
+          "portion": "1.5 plates",
+          "alternatives": ["Chicken pulao", "Veg biryani", "Kebab rice"],
+          "note": "Aromatic dinner special"
+        },
+        "snacks": {
+          "dish": "Samosa Chaat",
+          "calories": "450 kcal",
+          "portion": "1 plate",
+          "alternatives": ["Dahi vada", "Papdi chaat", "Aloo tikki"],
+          "note": "Street chaat calories"
+        }
+      },
+      "luxury": {
+        "breakfast": {
+          "dish": "Poha Pyaz Kachori + Chai",
+          "calories": "800 kcal",
+          "portion": "Full plate",
+          "alternatives": ["Jalebi bafla", "Sattu stuffed puri", "Street food platter"],
+          "note": "Indore morning feast"
+        },
+        "lunch": {
+          "dish": "Mutton Korma + Roomali Roti",
+          "calories": "1200 kcal",
+          "portion": "Complete meal",
+          "alternatives": ["Chicken tikka masala", "Paneer lababdar", "Tandoori platter"],
+          "note": "Royal meat feast"
+        },
+        "dinner": {
+          "dish": "Chicken Biryani + Kebab",
+          "calories": "1100 kcal",
+          "portion": "Full plate",
+          "alternatives": ["Mutton biryani combo", "Seafood platter", "Tandoori thali"],
+          "note": "Ultimate dinner experience"
+        },
+        "snacks": {
+          "dish": "Gulab Jamun + Malai",
+          "calories": "550 kcal",
+          "portion": "4 pieces",
+          "alternatives": ["Rasmalai", "Mysore pak", "Sweet platter"],
+          "note": "Sweet calorie finale"
+        }
+      }
+    }
+  },
+
+  "obese": {
+    "south_india": {
+      "low": {
+        "breakfast": {
+          "dish": "Oats Ragi Porridge",
+          "calories": "200 kcal",
+          "portion": "1 bowl",
+          "alternatives": ["2 Idli + sambar (no oil)", "Vegetable oats upma", "Moong dal chilla"],
+          "note": "High fiber low calorie start"
+        },
+        "lunch": {
+          "dish": "Brown rice + vegetable sambar",
+          "calories": "350 kcal",
+          "portion": "1 cup rice",
+          "alternatives": ["Quinoa khichdi", "Ragi mudde + sambar", "Vegetable rasam rice"],
+          "note": "Fiber rich low fat meal"
+        },
+        "dinner": {
+          "dish": "Vegetable clear soup + salad",
+          "calories": "200 kcal",
+          "portion": "1 large bowl",
+          "alternatives": ["Cucumber raita", "Tomato shorba", "Sprouts salad"],
+          "note": "Liquid dinner for weight loss"
+        },
+        "snacks": {
+          "dish": "Green tea + roasted chickpeas",
+          "calories": "100 kcal",
+          "portion": "1 cup tea",
+          "alternatives": ["Apple slices", "Carrot sticks", "Buttermilk"],
+          "note": "Metabolism boosting snack"
+        }
+      },
+      "medium": {
+        "breakfast": {
+          "dish": "Ragi dosa + tomato chutney",
+          "calories": "250 kcal",
+          "portion": "2 small dosas",
+          "alternatives": ["Pesarattu", "Moong dal dosa", "Oats idli"],
+          "note": "Protein fiber breakfast"
+        },
+        "lunch": {
+          "dish": "Mixed dal + 1 millet roti + salad",
+          "calories": "400 kcal",
+          "portion": "1 roti",
+          "alternatives": ["Vegetable stew + appam (1)", "Sambar rice (½ cup)", "Dal khichdi"],
+          "note": "Balanced low glycemic meal"
+        },
+        "dinner": {
+          "dish": "Vegetable poriyal + buttermilk",
+          "calories": "250 kcal",
+          "portion": "1 bowl veggies",
+          "alternatives": ["Steamed vegetables", "Clear rasam", "Cucumber raita"],
+          "note": "Light steamed dinner"
+        },
+        "snacks": {
+          "dish": "Sprouts salad + lemon",
+          "calories": "150 kcal",
+          "portion": "1 bowl",
+          "alternatives": ["Roasted makhana", "Vegetable sticks", "Green chutney"],
+          "note": "Raw veggie protein snack"
+        }
+      },
+      "luxury": {
+        "breakfast": {
+          "dish": "Vegetable uttapam (mini)",
+          "calories": "300 kcal",
+          "portion": "2 small",
+          "alternatives": ["Onion rava dosa", "Herbed idli", "Vegetable adai"],
+          "note": "Flavorful veggie breakfast"
+        },
+        "lunch": {
+          "dish": "Grilled fish + brown rice + salad",
+          "calories": "450 kcal",
+          "portion": "100g fish",
+          "alternatives": ["Tandoori chicken + veggies", "Paneer tikka + salad", "Dal + millet roti"],
+          "note": "Grilled protein meal"
+        },
+        "dinner": {
+          "dish": "Clear chicken soup + 1 bajra roti",
+          "calories": "300 kcal",
+          "portion": "1 bowl soup",
+          "alternatives": ["Vegetable broth", "Mushroom soup", "Light khichdi"],
+          "note": "Warm comforting dinner"
+        },
+        "snacks": {
+          "dish": "Fruit chaat + chaas",
+          "calories": "200 kcal",
+          "portion": "1 bowl fruit",
+          "alternatives": ["Low fat yogurt", "Vegetable raita", "Cucumber chaat"],
+          "note": "Hydrating antioxidant snack"
+        }
+      }
+    },
+    "north_india": {
+      "low": {
+        "breakfast": {
+          "dish": "Vegetable oats porridge",
+          "calories": "200 kcal",
+          "portion": "1 bowl",
+          "alternatives": ["Moong dal chilla (1)", "Dalia khichdi", "Besan cheela"],
+          "note": "Soluble fiber breakfast"
+        },
+        "lunch": {
+          "dish": "1 Roti + palak dal + salad",
+          "calories": "350 kcal",
+          "portion": "1 whole wheat roti",
+          "alternatives": ["Mixed veg raita", "Lauki sabzi", "Moong dal soup"],
+          "note": "Green leafy protein meal"
+        },
+        "dinner": {
+          "dish": "Clear vegetable soup",
+          "calories": "150 kcal",
+          "portion": "2 bowls",
+          "alternatives": ["Tomato shorba", "Spinach soup", "Clear dal water"],
+          "note": "Hydrating zero oil soup"
+        },
+        "snacks": {
+          "dish": "Cucumber chaat",
+          "calories": "80 kcal",
+          "alternatives": ["Roasted makhana", "Apple chaat", "Celery sticks"],
+          "note": "Negative calorie snack"
+        }
+      },
+      "medium": {
+        "breakfast": {
+          "dish": "Vegetable poha (light)",
+          "calories": "250 kcal",
+          "portion": "1 small plate",
+          "alternatives": ["Oats upma", "Ragi porridge", "Sprouts cheela"],
+          "note": "Flattened rice fiber meal"
+        },
+        "lunch": {
+          "dish": "2 Phulkas + mixed veg + curd",
+          "calories": "400 kcal",
+          "portion": "2 thin rotis",
+          "alternatives": ["Sarson ka saag", "Bottle gourd dal", "Tinda sabzi"],
+          "note": "Seasonal veggie thali"
+        },
+        "dinner": {
+          "dish": "Sprouts salad + raita",
+          "calories": "250 kcal",
+          "portion": "1 large bowl",
+          "alternatives": ["Grilled veggies", "Paneer salad", "Kachumber"],
+          "note": "Raw protein dinner"
+        },
+        "snacks": {
+          "dish": "Buttermilk + roasted chana",
+          "calories": "150 kcal",
+          "alternatives": ["Cucumber raita", "Low fat lassi", "Veg stick chaat"],
+          "note": "Probiotic cooling snack"
+        }
+      },
+      "luxury": {
+        "breakfast": {
+          "dish": "Multigrain paratha (1) + curd",
+          "calories": "300 kcal",
+          "portion": "1 medium",
+          "alternatives": ["Bajra cheela", "Jowar roti breakfast", "Vegetable stuffed roti"],
+          "note": "Millet fiber breakfast"
+        },
+        "lunch": {
+          "dish": "Grilled chicken + salad + dal",
+          "calories": "450 kcal",
+          "portion": "100g chicken",
+          "alternatives": ["Tandoori fish", "Paneer bhurji", "Chicken salad"],
+          "note": "Lean protein feast"
+        },
+        "dinner": {
+          "dish": "Vegetable stuffed roti + soup",
+          "calories": "300 kcal",
+          "portion": "1 stuffed roti",
+          "alternatives": ["Mushroom stuffed paratha", "Palak paneer (light)", "Veg clear soup"],
+          "note": "Stuffed fiber dinner"
+        },
+        "snacks": {
+          "dish": "Low fat paneer tikka",
+          "calories": "200 kcal",
+          "portion": "50g paneer",
+          "alternatives": ["Grilled veggies", "Tandoori aloo", "Mushroom tikka"],
+          "note": "Grilled protein snack"
+        }
+      }
+    },
+    "east_india": {
+      "low": {
+        "breakfast": {
+          "dish": "Chira with curd + veggies",
+          "calories": "200 kcal",
+          "portion": "1 bowl",
+          "alternatives": ["Suji upma (plain)", "Flattened rice salad", "Moong dal soup"],
+          "note": "Light Bengali morning"
+        },
+        "lunch": {
+          "dish": "½ cup rice + moong dal + veggies",
+          "calories": "350 kcal",
+          "portion": "½ cup brown rice",
+          "alternatives": ["Bhaja dal water", "Vegetable jhol", "Light shukto"],
+          "note": "Minimal rice protein meal"
+        },
+        "dinner": {
+          "dish": "Vegetable clear soup",
+          "calories": "150 kcal",
+          "portion": "2 bowls",
+          "alternatives": ["Mulor shukto", "Tomato rasam", "Cucumber dal"],
+          "note": "Bitter detox dinner"
+        },
+        "snacks": {
+          "dish": "Jhal muri (light version)",
+          "calories": "100 kcal",
+          "alternatives": ["Raw cucumber", "Green chili water", "Lemon water"],
+          "note": "Spicy low calorie snack"
+        }
+      },
+      "medium": {
+        "breakfast": {
+          "dish": "Vegetable chop (baked)",
+          "calories": "250 kcal",
+          "portion": "2 pieces",
+          "alternatives": ["Suji upma", "Chira bhaja", "Moong dal pancake"],
+          "note": "Baked Bengali breakfast"
+        },
+        "lunch": {
+          "dish": "Bhaja moong dal + ½ rice + salad",
+          "calories": "400 kcal",
+          "portion": "½ cup rice",
+          "alternatives": ["Potol posto (light)", "Mixed veg jhol", "Dal shukto"],
+          "note": "Traditional light Bengali"
+        },
+        "dinner": {
+          "dish": "Pumpkin curry + salad",
+          "calories": "250 kcal",
+          "portion": "1 bowl",
+          "alternatives": ["Narkel posto", "Lau ghonto", "Vegetable raita"],
+          "note": "Sweet veggie dinner"
+        },
+        "snacks": {
+          "dish": "Cucumber muri mix",
+          "calories": "150 kcal",
+          "alternatives": ["Raw mango", "Khejur gur (small)", "Green chutney"],
+          "note": "Hydrating street snack"
+        }
+      },
+      "luxury": {
+        "breakfast": {
+          "dish": "Luchi (1) + begun bhaja (light)",
+          "calories": "300 kcal",
+          "portion": "1 small luchi",
+          "alternatives": ["Baked vegetable chop", "Moong dal luchi", "Herbed chira"],
+          "note": "Light Bengali indulgence"
+        },
+        "lunch": {
+          "dish": "Grilled fish + dal + salad",
+          "calories": "450 kcal",
+          "portion": "100g fish",
+          "alternatives": ["Chicken jhol (light)", "Paneer posto", "Egg bhorta salad"],
+          "note": "Lean protein Bengali thali"
+        },
+        "dinner": {
+          "dish": "Chicken clear soup + veggies",
+          "calories": "300 kcal",
+          "portion": "1 bowl",
+          "alternatives": ["Fish clear soup", "Mutton broth", "Vegetable stew"],
+          "note": "Protein broth dinner"
+        },
+        "snacks": {
+          "dish": "Low fat mishti doi",
+          "calories": "200 kcal",
+          "portion": "½ cup",
+          "alternatives": ["Hung curd fruit", "Light sandesh", "Yogurt parfait"],
+          "note": "Probiotic dessert snack"
+        }
+      }
+    },
+    "west_india": {
+      "low": {
+        "breakfast": {
+          "dish": "Steamed moong dhokla",
+          "calories": "200 kcal",
+          "portion": "4 small pieces",
+          "alternatives": ["Kothimbir vadi (steamed)", "Oats khandvi", "Vegetable oats"],
+          "note": "Fermented steamed breakfast"
+        },
+        "lunch": {
+          "dish": "Vegetable khichdi + thin kadhi",
+          "calories": "350 kcal",
+          "portion": "1 bowl khichdi",
+          "alternatives": ["Ringan no olo", "Sprouts usal", "Tinda nu shaak"],
+          "note": "Light Gujarati healing meal"
+        },
+        "dinner": {
+          "dish": "Vegetable raita + bajra roti (1)",
+          "calories": "250 kcal",
+          "portion": "1 small roti",
+          "alternatives": ["Cucumber kadhi", "Bhakhri + chutney", "Steamed patra"],
+          "note": "Millet probiotic dinner"
+        },
+        "snacks": {
+          "dish": "Steamed corn cob",
+          "calories": "100 kcal",
+          "alternatives": ["Sprouts chatni", "Khakhra (1 plain)", "Raw veggies"],
+          "note": "Zero oil natural snack"
+        }
+      },
+      "medium": {
+        "breakfast": {
+          "dish": "Vegetable thepla (1) + curd",
+          "calories": "250 kcal",
+          "portion": "1 medium thepla",
+          "alternatives": ["Mini dhokla", "Sprouts thepla", "Methi cheela"],
+          "note": "Fenugreek fiber breakfast"
+        },
+        "lunch": {
+          "dish": "Dal + 1 jowar roti + salad",
+          "calories": "400 kcal",
+          "portion": "1 millet roti",
+          "alternatives": ["Vegetable handvo", "Undhiyu light", "Sprouts usal rice"],
+          "note": "Millet protein thali"
+        },
+        "dinner": {
+          "dish": "Vegetable stew + raita",
+          "calories": "250 kcal",
+          "portion": "1 bowl stew",
+          "alternatives": ["Coconut kadhi", "Vegetable soup", "Sprouts raita"],
+          "note": "Liquid veggie dinner"
+        },
+        "snacks": {
+          "dish": "Roasted phool makhana",
+          "calories": "150 kcal",
+          "alternatives": ["Air popped murmura", "Roasted chana", "Veg crudites"],
+          "note": "Low density snack"
+        }
+      },
+      "luxury": {
+        "breakfast": {
+          "dish": "Stuffed methi thepla + mint chutney",
+          "calories": "300 kcal",
+          "portion": "1 stuffed thepla",
+          "alternatives": ["Vegetable handvo", "Paneer stuffed dhokla", "Herbed khandvi"],
+          "note": "Flavorful fiber breakfast"
+        },
+        "lunch": {
+          "dish": "Grilled paneer + millet roti + salad",
+          "calories": "450 kcal",
+          "portion": "100g paneer",
+          "alternatives": ["Tandoori veggies", "Chicken tikka salad", "Fish grill"],
+          "note": "Grilled protein luxury"
+        },
+        "dinner": {
+          "dish": "Clear veg soup + stuffed roti (1)",
+          "calories": "300 kcal",
+          "portion": "1 small stuffed roti",
+          "alternatives": ["Mushroom stuffed bhakri", "Vegetable clear broth", "Light kadhi"],
+          "note": "Comfort fiber dinner"
+        },
+        "snacks": {
+          "dish": "Grilled mushroom tikka",
+          "calories": "200 kcal",
+          "alternatives": ["Tandoori aloo", "Paneer tikka (low fat)", "Veg seekh"],
+          "note": "Smoky protein snack"
+        }
+      }
+    },
+    "central_india": {
+      "low": {
+        "breakfast": {
+          "dish": "Vegetable poha (light)",
+          "calories": "200 kcal",
+          "portion": "1 small plate",
+          "alternatives": ["Sattu drink (unsweetened)", "Bhutte ki kees (steamed)", "Oats upma"],
+          "note": "Flattened rice detox"
+        },
+        "lunch": {
+          "dish": "Moong dal + 1 roti + salad",
+          "calories": "350 kcal",
+          "portion": "1 thin roti",
+          "alternatives": ["Vegetable sattu porridge", "Dal water khichdi", "Sprouts sabzi"],
+          "note": "Protein detox meal"
+        },
+        "dinner": {
+          "dish": "Vegetable clear soup",
+          "calories": "150 kcal",
+          "portion": "2 bowls",
+          "alternatives": ["Sattu clear soup", "Tomato shorba", "Cucumber cooler"],
+          "note": "Liquid cleansing dinner"
+        },
+        "snacks": {
+          "dish": "Roasted bhutta (corn)",
+          "calories": "100 kcal",
+          "alternatives": ["Raw carrot", "Cucumber slices", "Green chutney"],
+          "note": "Natural fiber snack"
+        }
+      },
+      "medium": {
+        "breakfast": {
+          "dish": "Sattu porridge + veggies",
+          "calories": "250 kcal",
+          "portion": "1 bowl",
+          "alternatives": ["Vegetable poha", "Bhutte ka kees", "Moong dal"],
+          "note": "Protein cooling breakfast"
+        },
+        "lunch": {
+          "dish": "Dal + vegetable sabzi + 1 bajra roti",
+          "calories": "400 kcal",
+          "portion": "1 millet roti",
+          "alternatives": ["Sattu roti", "Mixed dal khichdi", "Sprouts curry"],
+          "note": "Millet protein thali"
+        },
+        "dinner": {
+          "dish": "Vegetable raita + soup",
+          "calories": "250 kcal",
+          "portion": "1 bowl each",
+          "alternatives": ["Cucumber buttermilk", "Clear dal soup", "Tomato cooler"],
+          "note": "Probiotic cooling dinner"
+        },
+        "snacks": {
+          "dish": "Roasted makhana + chaas",
+          "calories": "150 kcal",
+          "alternatives": ["Air popped chivda", "Sprouts mini salad", "Veg raita"],
+          "note": "Light cooling snack"
+        }
+      },
+      "luxury": {
+        "breakfast": {
+          "dish": "Vegetable stuffed poha roll",
+          "calories": "300 kcal",
+          "portion": "1 large roll",
+          "alternatives": ["Sattu stuffed paratha (1)", "Bhutte ki kees deluxe", "Veg oats wrap"],
+          "note": "Creative fiber breakfast"
+        },
+        "lunch": {
+          "dish": "Grilled chicken + dal + millet roti",
+          "calories": "450 kcal",
+          "portion": "100g chicken",
+          "alternatives": ["Paneer bhurji", "Egg white bhurji", "Fish grill MP style"],
+          "note": "Lean protein feast"
+        },
+        "dinner": {
+          "dish": "Clear veg soup + stuffed bajra roti",
+          "calories": "300 kcal",
+          "portion": "1 stuffed roti",
+          "alternatives": ["Sattu stuffed bhakri", "Vegetable broth", "Light dal"],
+          "note": "Millet stuffed dinner"
+        },
+        "snacks": {
+          "dish": "Low fat dahi vada (mini)",
+          "calories": "200 kcal",
+          "portion": "2 mini vadas",
+          "alternatives": ["Grilled aloo chaat", "Sprouts tikki", "Veg stuffed idli"],
+          "note": "Probiotic protein snack"
+        }
+      }
+    }
+  }
+}
+

@@ -1,0 +1,611 @@
+{
+  "underweight": {
+    "infant": {
+      "exercises": [
+        {
+          "name": "Toy Carry Hold",
+          "steps": "1. Hold light rattle or stuffed toy above chest. 2. Encourage baby to grasp and hold 5-10 seconds. 3. Repeat 8-10 times per session.",
+          "benefits": "Builds grip strength and upper body muscle.",
+          "duration": "5-10 min daily",
+          "note": "Use soft lightweight toys only"
+        },
+        {
+          "name": "Assisted Arm Raises",
+          "steps": "1. Lay baby on back. 2. Gently lift both arms overhead holding 3 seconds. 3. Lower slowly, repeat 10 times.",
+          "benefits": "Shoulder and arm development for weight gain.",
+          "duration": "3-5 min, 3x/day",
+          "note": "Support neck if needed"
+        },
+        {
+          "name": "Leg Press Assist",
+          "steps": "1. Baby on back, knees bent. 2. Press feet gently against your palms. 3. Hold resistance 5 seconds, 8 reps.",
+          "benefits": "Leg muscle building through resistance.",
+          "duration": "5 min sessions",
+          "note": "Very gentle pressure only"
+        }
+      ]
+    },
+    "toddler": {
+      "exercises": [
+        {
+          "name": "Toy Carry Walk",
+          "steps": "1. Give stuffed toy or small bag (200g). 2. Walk holding across room 10 steps. 3. Rest and repeat 3 times.",
+          "benefits": "Arm endurance and muscle growth.",
+          "duration": "5 min",
+          "note": "Praise effort, make fun"
+        },
+        {
+          "name": "Squat Toy Pickup",
+          "steps": "1. Place toys on floor. 2. Squat down slowly to pick up. 3. Stand tall holding toy, 10 reps.",
+          "benefits": "Leg strength and posture development.",
+          "duration": "5 min",
+          "note": "Hold hand for balance"
+        },
+        {
+          "name": "Overhead Reach Hold",
+          "steps": "1. Hold toy overhead with both hands. 2. Stretch up holding 5 seconds. 3. Lower slowly, 12 reps.",
+          "benefits": "Shoulder girdle strengthening.",
+          "duration": "5 min",
+          "note": "Stand behind for support"
+        }
+      ]
+    },
+    "child": {
+      "exercises": [
+        {
+          "name": "Assisted Pull Ups",
+          "steps": "1. Use low bar or playground equipment. 2. Pull chin above bar with spotter help. 3. 6-8 slow reps.",
+          "benefits": "Back and arm muscle hypertrophy.",
+          "duration": "10 min",
+          "note": "Full supervision required"
+        },
+        {
+          "name": "Wall Sit Hold",
+          "steps": "1. Back against wall, knees 90°. 2. Hold thighs parallel to ground. 3. 30 seconds, 3 sets.",
+          "benefits": "Quadricep endurance and growth.",
+          "duration": "10 min",
+          "note": "Build time gradually"
+        },
+        {
+          "name": "Dumbbell Shoulder Press",
+          "steps": "1. Sit holding 1-2kg dumbbells at shoulders. 2. Press overhead fully. 3. Lower controlled, 10 reps.",
+          "benefits": "Shoulder and upper body mass.",
+          "duration": "10 min",
+          "note": "Start with no weight"
+        }
+      ]
+    },
+    "adolescent": {
+      "exercises": [
+        {
+          "name": "Weighted Squats",
+          "steps": "1. Hold 2-5kg dumbbells at sides. 2. Squat until thighs parallel. 3. Stand squeezing glutes, 3x12.",
+          "benefits": "Lower body muscle development.",
+          "duration": "15 min",
+          "note": "Perfect form first"
+        },
+        {
+          "name": "Bench Press",
+          "steps": "1. Lie on bench, grip barbell shoulder width. 2. Lower to chest slowly. 3. Press up powerfully, 3x10.",
+          "benefits": "Chest and tricep hypertrophy.",
+          "duration": "15 min",
+          "note": "Spotter recommended"
+        },
+        {
+          "name": "Barbell Rows",
+          "steps": "1. Bend at hips 45°, back flat. 2. Pull barbell to lower chest. 3. Lower controlled, 3x10.",
+          "benefits": "Upper back thickness.",
+          "duration": "15 min",
+          "note": "Light weight, focus form"
+        }
+      ]
+    },
+    "adult": {
+      "exercises": [
+        {
+          "name": "Deadlifts",
+          "steps": "1. Barbell over mid-foot, hinge hips. 2. Grip bar, keep back neutral. 3. Drive through heels to stand, 3x8.",
+          "benefits": "Total posterior chain strength.",
+          "duration": "20 min",
+          "note": "Learn proper form first"
+        },
+        {
+          "name": "Overhead Press",
+          "steps": "1. Barbell at collarbone level. 2. Press overhead locking elbows. 3. Lower controlled, 3x8-10.",
+          "benefits": "Shoulder and tricep mass.",
+          "duration": "20 min",
+          "note": "Brace core throughout"
+        },
+        {
+          "name": "Weighted Dips",
+          "steps": "1. Parallel bars with weight belt (5-10kg). 2. Lower to 90° elbows. 3. Press up fully, 3x8.",
+          "benefits": "Chest, triceps, shoulders.",
+          "duration": "20 min",
+          "note": "Use assistance if needed"
+        }
+      ]
+    },
+    "senior": {
+      "exercises": [
+        {
+          "name": "Seated Bicep Curls",
+          "steps": "1. Sit holding 2-5kg dumbbells. 2. Curl to shoulders slowly. 3. Lower 3 seconds, 3x12.",
+          "benefits": "Arm strength preservation.",
+          "duration": "15 min",
+          "note": "No swinging"
+        },
+        {
+          "name": "Chair Leg Extensions",
+          "steps": "1. Sit with 1-2kg ankle weights. 2. Extend one leg straight. 3. Hold 3 sec, lower, 2x15/leg.",
+          "benefits": "Quadricep maintenance.",
+          "duration": "15 min",
+          "note": "Smooth controlled motion"
+        },
+        {
+          "name": "Seated Chest Press",
+          "steps": "1. Machine chest press, light weight. 2. Press handles forward fully. 3. Return controlled, 3x12.",
+          "benefits": "Upper body strength.",
+          "duration": "15 min",
+          "note": "Full range of motion"
+        }
+      ]
+    }
+  },
+  "normal": {
+    "infant": {
+      "exercises": [
+        {
+          "name": "Tummy Time",
+          "steps": "1. Lay on soft surface tummy down. 2. Place toys ahead to lift head. 3. 3-5 min, 4x daily supervised.",
+          "benefits": "Neck and core strength.",
+          "duration": "20 min total daily",
+          "note": "Always supervised"
+        },
+        {
+          "name": "Bicycle Legs",
+          "steps": "1. On back holding feet gently. 2. Pedal legs cycling motion. 3. 2 min with songs/smiles.",
+          "benefits": "Hip flexibility and digestion.",
+          "duration": "5 min",
+          "note": "Gentle smooth motion"
+        },
+        {
+          "name": "Assisted Rolling",
+          "steps": "1. On back, bend one knee across. 2. Guide roll to tummy gently. 3. Both sides 5x.",
+          "benefits": "Motor development.",
+          "duration": "5 min",
+          "note": "Support fully"
+        }
+      ]
+    },
+    "toddler": {
+      "exercises": [
+        {
+          "name": "Bear Crawl",
+          "steps": "1. Hands and knees position. 2. Crawl forward 10 steps opposite limbs. 3. Return, 3 rounds.",
+          "benefits": "Coordination and full body strength.",
+          "duration": "10 min",
+          "note": "Fun animal theme"
+        },
+        {
+          "name": "Ball Roll Sit",
+          "steps": "1. Sit legs extended. 2. Roll ball side to side reaching. 3. 5 min continuous.",
+          "benefits": "Core stability and balance.",
+          "duration": "10 min",
+          "note": "Large therapy ball"
+        },
+        {
+          "name": "Frog Jumps",
+          "steps": "1. Squat like frog position. 2. Jump forward 2-3 feet. 3. 10 jumps continuous.",
+          "benefits": "Leg power and coordination.",
+          "duration": "10 min",
+          "note": "Soft landing surface"
+        }
+      ]
+    },
+    "child": {
+      "exercises": [
+        {
+          "name": "Jumping Jacks",
+          "steps": "1. Feet together arms sides. 2. Jump out wide arms overhead. 3. Jump back, 30 reps.",
+          "benefits": "Cardiovascular fitness and coordination.",
+          "duration": "15 min",
+          "note": "Proper warm-up first"
+        },
+        {
+          "name": "Push Ups",
+          "steps": "1. Plank position hands shoulder width. 2. Lower chest to ground. 3. Push up, 3x10.",
+          "benefits": "Upper body strength.",
+          "duration": "15 min",
+          "note": "Knees OK for beginners"
+        },
+        {
+          "name": "Plank Hold",
+          "steps": "1. Forearm plank position. 2. Body straight tight core. 3. Hold 30-60 sec, 3 sets.",
+          "benefits": "Core strength and stability.",
+          "duration": "15 min",
+          "note": "Progress time gradually"
+        }
+      ]
+    },
+    "adolescent": {
+      "exercises": [
+        {
+          "name": "Pull Ups",
+          "steps": "1. Grip bar wider than shoulders. 2. Pull chin above bar. 3. Lower controlled, 3x6-8.",
+          "benefits": "Back and bicep strength.",
+          "duration": "20 min",
+          "note": "Assistance bands if needed"
+        },
+        {
+          "name": "Box Jumps",
+          "steps": "1. Stand before 12-18″ box. 2. Jump landing softly both feet. 3. Step down, 3x10.",
+          "benefits": "Explosive leg power.",
+          "duration": "20 min",
+          "note": "Stable box only"
+        },
+        {
+          "name": "Medicine Ball Slams",
+          "steps": "1. Hold 4-6kg ball overhead. 2. Slam down powerfully. 3. Catch and repeat, 3x15.",
+          "benefits": "Full body power and conditioning.",
+          "duration": "20 min",
+          "note": "Proper form essential"
+        }
+      ]
+    },
+    "adult": {
+      "exercises": [
+        {
+          "name": "Squats",
+          "steps": "1. Feet shoulder width. 2. Lower hips back until thighs parallel. 3. Drive up through heels, 3x12.",
+          "benefits": "Lower body strength and power.",
+          "duration": "25 min",
+          "note": "Knees track over toes"
+        },
+        {
+          "name": "Bench Press",
+          "steps": "1. Lie flat grip barbell shoulder width. 2. Lower to mid-chest. 3. Press up explosively, 3x10.",
+          "benefits": "Upper body pressing strength.",
+          "duration": "25 min",
+          "note": "Shoulder blades retracted"
+        },
+        {
+          "name": "Pull Ups",
+          "steps": "1. Grip bar overhand shoulder width. 2. Pull chest to bar. 3. Lower controlled, 3x8.",
+          "benefits": "Upper body pulling strength.",
+          "duration": "25 min",
+          "note": "Use assistance if needed"
+        }
+      ]
+    },
+    "senior": {
+      "exercises": [
+        {
+          "name": "Seated March",
+          "steps": "1. Sit tall in firm chair. 2. March knees alternately high. 3. Continue 2 minutes continuous.",
+          "benefits": "Hip flexor strength and circulation.",
+          "duration": "15 min",
+          "note": "Chair with arms for safety"
+        },
+        {
+          "name": "Wall Push Ups",
+          "steps": "1. Face wall hands shoulder height. 2. Bend elbows lean forward. 3. Push back, 3x12.",
+          "benefits": "Upper body strength safely.",
+          "duration": "15 min",
+          "note": "Stable wall surface"
+        },
+        {
+          "name": "Seated Leg Lifts",
+          "steps": "1. Sit tall lift one leg straight. 2. Hold 5 seconds at top. 3. 12 reps each leg.",
+          "benefits": "Hip flexor and quad strength.",
+          "duration": "15 min",
+          "note": "Hold chair arms if needed"
+        }
+      ]
+    }
+  },
+  "overweight": {
+    "infant": {
+      "exercises": [
+        {
+          "name": "Supervised Tummy Time",
+          "steps": "1. Tummy down on soft mat. 2. Encourage head lifting with toys. 3. 3 min sessions 4x daily.",
+          "benefits": "Core activation and muscle tone.",
+          "duration": "15 min total",
+          "note": "Constant supervision"
+        },
+        {
+          "name": "Seated Play",
+          "steps": "1. Support baby in sitting position. 2. Place toys around for reaching. 3. 5 min sessions.",
+          "benefits": "Trunk control development.",
+          "duration": "15 min",
+          "note": "Full back support"
+        },
+        {
+          "name": "Gentle Leg Movements",
+          "steps": "1. On back bicycle legs slowly. 2. Alternate leg lifts gently. 3. 3 min continuous.",
+          "benefits": "Hip mobility and gentle toning.",
+          "duration": "10 min",
+          "note": "Very gentle motion"
+        }
+      ]
+    },
+    "toddler": {
+      "exercises": [
+        {
+          "name": "Dance Freeze Game",
+          "steps": "1. Play upbeat music for dancing. 2. Freeze when music stops. 3. 10 minutes continuous play.",
+          "benefits": "Cardio calorie burn through fun.",
+          "duration": "15 min",
+          "note": "High energy music"
+        },
+        {
+          "name": "Bubble Chase",
+          "steps": "1. Blow bubbles in open space. 2. Toddler jumps/pops bubbles. 3. Continue full bubble solution.",
+          "benefits": "Interval cardio training.",
+          "duration": "15 min",
+          "note": "Outside preferred"
+        },
+        {
+          "name": "Obstacle Course",
+          "steps": "1. Pillows to step over, crawl under. 2. Complete circuit continuously. 3. 3 full rounds.",
+          "benefits": "Full body movement pattern.",
+          "duration": "15 min",
+          "note": "Safe soft obstacles"
+        }
+      ]
+    },
+    "child": {
+      "exercises": [
+        {
+          "name": "Jump Rope",
+          "steps": "1. Proper rope length adjustment. 2. Jump continuous rhythm. 3. 1 minute on, 30 sec rest x8.",
+          "benefits": "High calorie burn coordination.",
+          "duration": "20 min",
+          "note": "Build time gradually"
+        },
+        {
+          "name": "High Knees Run",
+          "steps": "1. Run place knees chest height. 2. Arms pump vigorously. 3. 45 sec work, 15 sec rest x10.",
+          "benefits": "Cardio endurance training.",
+          "duration": "20 min",
+          "note": "Proper running shoes"
+        },
+        {
+          "name": "Mountain Climbers",
+          "steps": "1. Plank position high plank. 2. Drive knees to chest rapidly. 3. 30 sec max effort x8.",
+          "benefits": "Core cardio combination.",
+          "duration": "20 min",
+          "note": "Maintain plank form"
+        }
+      ]
+    },
+    "adolescent": {
+      "exercises": [
+        {
+          "name": "Stationary Bike",
+          "steps": "1. Proper seat height adjustment. 2. Moderate resistance steady pace. 3. 25 minutes continuous.",
+          "benefits": "Low impact cardiovascular.",
+          "duration": "30 min",
+          "note": "Heart rate 60-70% max"
+        },
+        {
+          "name": "Rowing Machine",
+          "steps": "1. Proper foot strap position. 2. Full stroke smooth rhythm. 3. 20 minutes steady pace.",
+          "benefits": "Full body calorie burn.",
+          "duration": "30 min",
+          "note": "Learn technique first"
+        },
+        {
+          "name": "Battle Ropes",
+          "steps": "1. Squat position rope ends. 2. Alternate waves/slams 30 sec. 3. Rest 30 sec x10 rounds.",
+          "benefits": "High intensity interval training.",
+          "duration": "30 min",
+          "note": "Proper squat form"
+        }
+      ]
+    },
+    "adult": {
+      "exercises": [
+        {
+          "name": "Kettlebell Swings",
+          "steps": "1. Hinge hips holding kettlebell. 2. Explosive hip snap to chest height. 3. 15 reps x4 rounds.",
+          "benefits": "High calorie full body burn.",
+          "duration": "30 min",
+          "note": "Hip hinge not squat"
+        },
+        {
+          "name": "Rowing Intervals",
+          "steps": "1. 500m row max effort. 2. 2 min easy pace recovery. 3. Repeat 6-8 intervals.",
+          "benefits": "HIIT cardiovascular training.",
+          "duration": "35 min",
+          "note": "Consistent pacing"
+        },
+        {
+          "name": "Stair Climber",
+          "steps": "1. Moderate pace consistent stepping. 2. Hold good upright posture. 3. 25-30 minutes continuous.",
+          "benefits": "Lower body endurance calorie burn.",
+          "duration": "35 min",
+          "note": "Handrails for balance only"
+        }
+      ]
+    },
+    "senior": {
+      "exercises": [
+        {
+          "name": "Water Walking",
+          "steps": "1. Waist deep pool water. 2. Walk brisk pace against resistance. 3. 20-25 minutes continuous.",
+          "benefits": "Low impact full body cardio.",
+          "duration": "30 min",
+          "note": "Pool with lifeguard"
+        },
+        {
+          "name": "Seated Aerobics",
+          "steps": "1. Seated marching arm movements. 2. Follow video instructor pace. 3. 25 minutes continuous.",
+          "benefits": "Cardiovascular fitness safely.",
+          "duration": "30 min",
+          "note": "Stable chair required"
+        },
+        {
+          "name": "Recumbent Bike",
+          "steps": "1. Adjust seat for comfort. 2. Steady moderate resistance. 3. 25-30 minutes continuous.",
+          "benefits": "Back supported cardio.",
+          "duration": "30 min",
+          "note": "Proper posture"
+        }
+      ]
+    }
+  },
+  "obese": {
+    "infant": {
+      "exercises": [
+        {
+          "name": "Passive Leg Movements",
+          "steps": "1. Baby on back gently. 2. Move legs in cycling motion slowly. 3. 2-3 min gentle.",
+          "benefits": "Circulation and gentle mobility.",
+          "duration": "10 min total",
+          "note": "Extremely gentle only"
+        },
+        {
+          "name": "Seated Supported Play",
+          "steps": "1. Full support sitting position. 2. Reach for toys around body. 3. 3 min sessions.",
+          "benefits": "Minimal trunk activation.",
+          "duration": "10 min",
+          "note": "Complete support"
+        },
+        {
+          "name": "Arm Circles Assist",
+          "steps": "1. On back gently circle arms. 2. Very slow smooth motion. 3. 2 min continuous.",
+          "benefits": "Shoulder girdle gentle movement.",
+          "duration": "5 min",
+          "note": "Minimum resistance"
+        }
+      ]
+    },
+    "toddler": {
+      "exercises": [
+        {
+          "name": "Seated Clap Dance",
+          "steps": "1. Sit in stable chair. 2. Clap and sway to music. 3. 10 minutes continuous.",
+          "benefits": "Gentle upper body movement.",
+          "duration": "15 min",
+          "note": "Fun music selection"
+        },
+        {
+          "name": "Seated Leg Lifts",
+          "steps": "1. Sit lift one leg at a time. 2. Hold 3 seconds each. 3. 8 reps per leg.",
+          "benefits": "Leg strength no weight bearing.",
+          "duration": "15 min",
+          "note": "Hold chair securely"
+        },
+        {
+          "name": "Ball Pat Seated",
+          "steps": "1. Sit with ball in lap. 2. Pat bounce rhythmically. 3. 8-10 minutes continuous.",
+          "benefits": "Coordination upper body.",
+          "duration": "15 min",
+          "note": "Large soft ball"
+        }
+      ]
+    },
+    "child": {
+      "exercises": [
+        {
+          "name": "Chair Cardio Dance",
+          "steps": "1. Sit marching punches to music. 2. High energy arm movements. 3. 20 min continuous.",
+          "benefits": "Upper body cardiovascular.",
+          "duration": "25 min",
+          "note": "Stable chair only"
+        },
+        {
+          "name": "Seated Leg Press",
+          "steps": "1. Sit press against immovable object. 2. Hold 5 sec isometric. 3. 12 reps per leg.",
+          "benefits": "Leg strength no movement.",
+          "duration": "25 min",
+          "note": "Stable surface required"
+        },
+        {
+          "name": "Upper Body Ergometer",
+          "steps": "1. Arm cycle machine moderate pace. 2. Steady continuous rhythm. 3. 20 minutes.",
+          "benefits": "Upper body cardiovascular.",
+          "duration": "25 min",
+          "note": "Medical clearance first"
+        }
+      ]
+    },
+    "adolescent": {
+      "exercises": [
+        {
+          "name": "Recumbent Bike",
+          "steps": "1. Adjust for full leg extension. 2. Low-moderate resistance steady. 3. 30 minutes continuous.",
+          "benefits": "Cardio with full back support.",
+          "duration": "35 min",
+          "note": "Hydrate frequently"
+        },
+        {
+          "name": "Upper Body Ergometer",
+          "steps": "1. Adjust seat for comfort. 2. Arm cycle steady moderate pace. 3. 25 minutes continuous.",
+          "benefits": "Upper body cardiovascular.",
+          "duration": "35 min",
+          "note": "Gradual resistance increase"
+        },
+        {
+          "name": "Seated Elliptical",
+          "steps": "1. Adjust seat position comfortable. 2. Dual arm/leg motion steady. 3. 25-30 minutes.",
+          "benefits": "Full body low impact.",
+          "duration": "35 min",
+          "note": "Stable equipment only"
+        }
+      ]
+    },
+    "adult": {
+      "exercises": [
+        {
+          "name": "Chair Squats",
+          "steps": "1. Stand before firm chair. 2. Lower until butt touches seat. 3. Stand up fully, 3x15.",
+          "benefits": "Leg strength with safety.",
+          "duration": "30 min",
+          "note": "Stable chair required"
+        },
+        {
+          "name": "Wall Supported Push Ups",
+          "steps": "1. Hands on wall shoulder height. 2. Bend elbows lean forward. 3. Push back, 3x15.",
+          "benefits": "Upper body no floor work.",
+          "duration": "30 min",
+          "note": "Stable wall surface"
+        },
+        {
+          "name": "Seated Row Machine",
+          "steps": "1. Adjust seat/weight light resistance. 2. Pull handles to torso. 3. Return controlled, 3x15.",
+          "benefits": "Back strength seated.",
+          "duration": "30 min",
+          "note": "Perfect posture"
+        }
+      ]
+    },
+    "senior": {
+      "exercises": [
+        {
+          "name": "Seated Ab Crunches",
+          "steps": "1. Sit tall arms crossed chest. 2. Crunch forward 2-3 inches. 3. Return slowly, 3x12.",
+          "benefits": "Core activation no strain.",
+          "duration": "20 min",
+          "note": "Very small movement"
+        },
+        {
+          "name": "Seated Torso Twists",
+          "steps": "1. Sit holding light ball (1kg). 2. Twist side to side slowly. 3. 10 reps each direction.",
+          "benefits": "Spinal mobility safely.",
+          "duration": "20 min",
+          "note": "Stable chair only"
+        },
+        {
+          "name": "Foot Dorsi Flexion",
+          "steps": "1. Sit pull toes toward shins. 2. Hold resistance band 5 sec. 3. 15 reps each foot.",
+          "benefits": "Lower leg circulation.",
+          "duration": "20 min",
+          "note": "Light resistance only"
+        }
+      ]
+    }
+  }
+}
+

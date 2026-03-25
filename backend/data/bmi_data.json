@@ -1,0 +1,139 @@
+{
+  "bmi_categories": {
+    "infant_0_2years": {
+      "boys": {
+        "underweight": "< -2 SD (WHO weight-for-length)",
+        "normal": "-2 to +2 SD",
+        "overweight": "> +2 SD",
+        "obese": "> +3 SD",
+        "note": "Use WHO weight-for-length charts, not BMI"
+      },
+      "girls": {
+        "underweight": "< -2 SD (WHO weight-for-length)",
+        "normal": "-2 to +2 SD",
+        "overweight": "> +2 SD",
+        "obese": "> +3 SD",
+        "note": "Use WHO weight-for-length charts, not BMI"
+      }
+    },
+    "toddler_2_5years": {
+      "boys": {
+        "underweight": "< 5th percentile",
+        "normal": "5th-85th percentile", 
+        "overweight": "85th-95th percentile",
+        "obese": "≥ 95th percentile",
+        "bmi_ranges": {
+          "2y": {"underweight": "<13.5", "normal": "13.5-17.5", "overweight": "17.5-19.0", "obese": ">19.0"},
+          "3y": {"underweight": "<13.0", "normal": "13.0-17.0", "overweight": "17.0-18.5", "obese": ">18.5"},
+          "4y": {"underweight": "<12.5", "normal": "12.5-16.5", "overweight": "16.5-18.0", "obese": ">18.0"},
+          "5y": {"underweight": "<12.5", "normal": "12.5-16.5", "overweight": "16.5-18.0", "obese": ">18.0"}
+        }
+      },
+      "girls": {
+        "underweight": "< 5th percentile",
+        "normal": "5th-85th percentile",
+        "overweight": "85th-95th percentile", 
+        "obese": "≥ 95th percentile",
+        "bmi_ranges": {
+          "2y": {"underweight": "<13.0", "normal": "13.0-17.0", "overweight": "17.0-18.5", "obese": ">18.5"},
+          "3y": {"underweight": "<12.5", "normal": "12.5-16.5", "overweight": "16.5-18.0", "obese": ">18.0"},
+          "4y": {"underweight": "<12.5", "normal": "12.5-16.5", "overweight": "16.5-17.5", "obese": ">17.5"},
+          "5y": {"underweight": "<12.5", "normal": "12.5-16.0", "overweight": "16.0-17.5", "obese": ">17.5"}
+        }
+      }
+    },
+    "child_5_12years": {
+      "boys": {
+        "underweight": "< 5th percentile",
+        "normal": "5th-85th percentile",
+        "overweight": "85th-95th percentile",
+        "obese": "≥ 95th percentile",
+        "bmi_ranges": {
+          "6y": {"underweight": "<12.5", "normal": "12.5-17.0", "overweight": "17.0-19.0", "obese": ">19.0"},
+          "8y": {"underweight": "<12.5", "normal": "12.5-18.0", "overweight": "18.0-21.0", "obese": ">21.0"},
+          "10y": {"underweight": "<12.5", "normal": "12.5-19.0", "overweight": "19.0-23.0", "obese": ">23.0"},
+          "12y": {"underweight": "<13.0", "normal": "13.0-20.0", "overweight": "20.0-24.0", "obese": ">24.0"}
+        }
+      },
+      "girls": {
+        "underweight": "< 5th percentile",
+        "normal": "5th-85th percentile",
+        "overweight": "85th-95th percentile",
+        "obese": "≥ 95th percentile",
+        "bmi_ranges": {
+          "6y": {"underweight": "<12.5", "normal": "12.5-16.5", "overweight": "16.5-18.5", "obese": ">18.5"},
+          "8y": {"underweight": "<12.5", "normal": "12.5-17.5", "overweight": "17.5-20.0", "obese": ">20.0"},
+          "10y": {"underweight": "<12.5", "normal": "12.5-18.5", "overweight": "18.5-22.0", "obese": ">22.0"},
+          "12y": {"underweight": "<13.0", "normal": "13.0-19.5", "overweight": "19.5-23.0", "obese": ">23.0"}
+        }
+      }
+    },
+    "adolescent_13_19years": {
+      "boys": {
+        "underweight": "< 5th percentile",
+        "normal": "5th-85th percentile",
+        "overweight": "85th-95th percentile",
+        "obese": "≥ 95th percentile",
+        "bmi_ranges": {
+          "14y": {"underweight": "<16.0", "normal": "16.0-23.0", "overweight": "23.0-27.0", "obese": ">27.0"},
+          "16y": {"underweight": "<16.5", "normal": "16.5-24.0", "overweight": "24.0-28.0", "obese": ">28.0"},
+          "18y": {"underweight": "<17.0", "normal": "17.0-24.0", "overweight": "24.0-28.0", "obese": ">28.0"}
+        }
+      },
+      "girls": {
+        "underweight": "< 5th percentile",
+        "normal": "5th-85th percentile",
+        "overweight": "85th-95th percentile",
+        "obese": "≥ 95th percentile",
+        "bmi_ranges": {
+          "14y": {"underweight": "<15.5", "normal": "15.5-22.5", "overweight": "22.5-26.0", "obese": ">26.0"},
+          "16y": {"underweight": "<16.0", "normal": "16.0-23.0", "overweight": "23.0-27.0", "obese": ">27.0"},
+          "18y": {"underweight": "<16.5", "normal": "16.5-23.5", "overweight": "23.5-27.5", "obese": ">27.5"}
+        }
+      }
+    },
+    "adult_20plus": {
+      "both_genders": {
+        "underweight": "<18.5",
+        "normal": "18.5-24.9",
+        "overweight": "25.0-29.9",
+        "obese_class1": "30.0-34.9",
+        "obese_class2": "35.0-39.9",
+        "obese_class3": "≥40.0",
+        "note": "Same for men and women"
+      }
+    },
+    "senior_65plus": {
+      "both_genders": {
+        "underweight": "<22.0",
+        "normal": "22.0-27.0",
+        "overweight": "27.0-30.0",
+        "obese": ">30.0",
+        "note": "Adjusted ranges for older adults"
+      }
+    }
+  },
+  "usage_guide": {
+    "infant_0_2": "Use WHO weight-for-length charts, NOT BMI",
+    "children_2_20": "Use CDC/WHO BMI-for-age percentiles by gender",
+    "adults_20+": "Use standard BMI categories",
+    "seniors_65+": "Use adjusted BMI ranges",
+    "calculation": "BMI = weight(kg) / height(m)²",
+    "sources": ["CDC", "WHO Growth Standards", "WHO 5-19 Reference"]
+  },
+  "age_group_mapping": {
+    "infant": "0-2 years",
+    "toddler": "2-5 years", 
+    "child": "5-12 years",
+    "adolescent": "13-19 years",
+    "adult": "20-64 years",
+    "senior": "65+ years"
+  },
+  "quick_reference": {
+    "boys_10y": {"underweight": "<12.5", "normal": "12.5-19.0", "overweight": "19.0-23.0", "obese": ">23.0"},
+    "girls_10y": {"underweight": "<12.5", "normal": "12.5-18.5", "overweight": "18.5-22.0", "obese": ">22.0"},
+    "adult_male": {"underweight": "<18.5", "normal": "18.5-24.9", "overweight": "25-29.9", "obese": ">30"},
+    "adult_female": {"underweight": "<18.5", "normal": "18.5-24.9", "overweight": "25-29.9", "obese": ">30"}
+  }
+}
+

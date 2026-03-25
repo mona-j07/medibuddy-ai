@@ -1,0 +1,19 @@
+# Create new requirements file
+echo Flask==2.3.3 > requirements_fixed.txt
+echo Flask-CORS==4.0.0 >> requirements_fixed.txt
+echo Flask-SocketIO==5.3.4 >> requirements_fixed.txt
+echo python-socketio==5.9.0 >> requirements_fixed.txt
+echo eventlet==0.33.3 >> requirements_fixed.txt
+echo supabase==1.0.3 >> requirements_fixed.txt
+echo python-dotenv==1.0.0 >> requirements_fixed.txt
+echo reportlab==4.0.4 >> requirements_fixed.txt
+Flask==2.3.3
+Flask-CORS==4.0.0
+Flask-SocketIO==5.3.4
+python-socketio==5.9.0
+eventlet==0.33.3
+supabase==1.0.3
+python-dotenv==1.0.0
+Pillow==10.0.0
+reportlab==4.0.0
+gunicorn==21.2.0
